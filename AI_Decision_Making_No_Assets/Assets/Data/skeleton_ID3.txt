@@ -1,0 +1,19 @@
+0SeesEnemy is False
+1HearEnemy is False
+2HP is > 0
+3Idle
+2HP is <= 0
+3Dead
+1HearEnemy is True
+2Seeking
+0SeesEnemy is True
+1EnemyInRange is True
+2HP is > 0
+3Attacking
+2HP is <= 0
+3Dead
+1EnemyInRange is False
+2HP is > 0
+3Chasing
+2HP is <= 0
+3Dead
